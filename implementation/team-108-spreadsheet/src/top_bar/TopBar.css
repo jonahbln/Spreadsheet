@@ -1,0 +1,34 @@
+.formula-indicator {
+    padding-left: 12ch;
+    font-style: italic;
+}
+
+.formula-alert {
+    padding-left: 60px;
+    margin-left: 40px;
+}
+
+.import-bar {
+    display:flex; 
+    flex-direction:row;
+}
+
+.upload-icon {
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.disappearing-upload {
+    display:flex; 
+    flex-direction:row;
+}
+
+.formula-entry-wrapper {
+    display:flex;
+    flex-direction: row;
+}
+
+.export-dialog {
+    max-width: "xl";
+}
