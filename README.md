@@ -1,5 +1,5 @@
 
-# CS4530 Course Project
+# Spreadsheet Application
 
 Please push the project deliverables to appropriate directories:
  - `implementation`: Any and all code you write should go here (both server and client).
